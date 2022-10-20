@@ -1,5 +1,8 @@
 # Alpa_Project_Calc1021
 View the image of the code deliverables I wrote
+<br>
+<hr>
+
 The original source is revealed with this coding class practice material
 https://www.youtube.com/watch?v=_npnL4Gyg_o
 
