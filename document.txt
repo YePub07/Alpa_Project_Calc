@@ -1,0 +1,2 @@
+text 입력 
+"hello python!"
